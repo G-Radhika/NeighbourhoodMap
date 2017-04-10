@@ -1,3 +1,6 @@
+[//]: # (Image References)
+
+[image1]: ./mapsDemo.PNG
 README File
 
 Thanks for checking out my Neighborhood map!!  To get started, simply open up index.html in your browser.  Further instructions are below:
@@ -9,3 +12,5 @@ Thanks for checking out my Neighborhood map!!  To get started, simply open up in
 -Map locations are beaches, bridges, parks, coffee and pizzas! Pick one from select box--to return to the full listing click the browser page refresh button.
 
 I hope you enjoyed exploring some of the interesting locations in San Francisco!
+
+![alt text][image1]
