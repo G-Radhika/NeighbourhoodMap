@@ -1,8 +1,3 @@
-[//]: # (Image References)
-
-[image1]: ./mapsDemo.PNG
-README File
-
 Thanks for checking out my Neighborhood map!!  To get started, simply open up index.html in your browser.  Further instructions are below:
 
 -Click the map marker once and the marker will bounce and display the infowindow.  To stop the marker from bouncing, click the marker a second time or wait for for timeout to stop marker bouncing.  To close the infowindow, click the x in the top right corner of the infowindow.
